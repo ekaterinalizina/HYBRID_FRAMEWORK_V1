@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="9" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-28T10:27:29 GMT-04:00" name="Suite" finished-at="2023-05-28T10:28:37 GMT-04:00" duration-ms="68494">
+    <groups>
+    </groups>
+    <test started-at="2023-05-28T10:27:29 GMT-04:00" name="Test" finished-at="2023-05-28T10:28:37 GMT-04:00" duration-ms="68494">
+      <class name="com.tn.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:13 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:18 GMT-04:00" duration-ms="5212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:2, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:18 GMT-04:00" name="verifyLoginWithInvalidCredentials" finished-at="2023-05-28T10:28:19 GMT-04:00" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:19 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:19 GMT-04:00" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:19 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:24 GMT-04:00" duration-ms="5221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidUsernameInvalidPassword()[pri:3, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:24 GMT-04:00" name="verifyLoginWithValidUsernameInvalidPassword" finished-at="2023-05-28T10:28:25 GMT-04:00" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidUsernameInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:25 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:25 GMT-04:00" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:25 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:30 GMT-04:00" duration-ms="5166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidUsernameValidPassword()[pri:4, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:30 GMT-04:00" name="verifyLoginWithInvalidUsernameValidPassword" finished-at="2023-05-28T10:28:31 GMT-04:00" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidUsernameValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:31 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:31 GMT-04:00" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:31 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:37 GMT-04:00" duration-ms="5366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithNoCredentials()[pri:5, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:37 GMT-04:00" name="verifyLoginWithNoCredentials" finished-at="2023-05-28T10:28:37 GMT-04:00" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithNoCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.LoginTest@692f203f]" started-at="2023-05-28T10:28:37 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:37 GMT-04:00" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tn.qa.testcases.LoginTest -->
+      <class name="com.tn.qa.testcases.SearchProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:02 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:06 GMT-04:00" duration-ms="4716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:06 GMT-04:00" name="verifySearchWithValidProduct" finished-at="2023-05-28T10:28:07 GMT-04:00" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:07 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:07 GMT-04:00" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:07 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:12 GMT-04:00" duration-ms="4904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithInvalidProduct()[pri:2, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:12 GMT-04:00" name="verifySearchWithInvalidProduct" finished-at="2023-05-28T10:28:13 GMT-04:00" duration-ms="510" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [false] but found [true]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at com.tn.qa.testcases.SearchProductTest.verifySearchWithInvalidProduct(SearchProductTest.java:44)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInvalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:13 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:13 GMT-04:00" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="verifySearchWithoutProduct()[pri:3, instance:com.tn.qa.testcases.SearchProductTest@4c583ecf]" started-at="2023-05-28T10:28:13 GMT-04:00" name="verifySearchWithoutProduct" finished-at="2023-05-28T10:28:13 GMT-04:00" depends-on-methods="com.tn.qa.testcases.SearchProductTest.verifySearchWithInvalidProduct" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.tn.qa.testcases.SearchProductTest.verifySearchWithoutProduct() on instance com.tn.qa.testcases.SearchProductTest@4c583ecf depends on not successfully finished methods 
+[com.tn.qa.testcases.SearchProductTest.verifySearchWithInvalidProduct() on instance com.tn.qa.testcases.SearchProductTest@4c583ecf]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.tn.qa.testcases.SearchProductTest.verifySearchWithoutProduct() on instance com.tn.qa.testcases.SearchProductTest@4c583ecf depends on not successfully finished methods 
+[com.tn.qa.testcases.SearchProductTest.verifySearchWithInvalidProduct() on instance com.tn.qa.testcases.SearchProductTest@4c583ecf]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:150)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithoutProduct -->
+      </class> <!-- com.tn.qa.testcases.SearchProductTest -->
+      <class name="com.tn.qa.testcases.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:29 GMT-04:00" name="setup" finished-at="2023-05-28T10:27:36 GMT-04:00" duration-ms="6962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerAccountWithMandatoryFields()[pri:1, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:36 GMT-04:00" name="registerAccountWithMandatoryFields" finished-at="2023-05-28T10:27:37 GMT-04:00" duration-ms="1441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:37 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:27:38 GMT-04:00" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:38 GMT-04:00" name="setup" finished-at="2023-05-28T10:27:47 GMT-04:00" duration-ms="9008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerAccountWithAllFields()[pri:2, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:47 GMT-04:00" name="registerAccountWithAllFields" finished-at="2023-05-28T10:27:48 GMT-04:00" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:48 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:27:49 GMT-04:00" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:49 GMT-04:00" name="setup" finished-at="2023-05-28T10:27:54 GMT-04:00" duration-ms="5640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerAccountWithExistingEmail()[pri:3, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:54 GMT-04:00" name="registerAccountWithExistingEmail" finished-at="2023-05-28T10:27:55 GMT-04:00" duration-ms="1053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithExistingEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:55 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:27:56 GMT-04:00" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:27:56 GMT-04:00" name="setup" finished-at="2023-05-28T10:28:01 GMT-04:00" duration-ms="5497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerAccountWithoutFillingAnyFields()[pri:4, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:28:01 GMT-04:00" name="registerAccountWithoutFillingAnyFields" finished-at="2023-05-28T10:28:02 GMT-04:00" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithoutFillingAnyFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tn.qa.testcases.RegisterTest@223191a6]" started-at="2023-05-28T10:28:02 GMT-04:00" name="tearDown" finished-at="2023-05-28T10:28:02 GMT-04:00" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tn.qa.testcases.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
